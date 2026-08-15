@@ -1,21 +1,37 @@
 ## Olá! Eu sou Andressa Sousa
 
-Eu sou entusiasta do universo de sistemas embarcados.
+🎓 Estudante de **Engenharia de Computação**  
+🔧 Entusiasta de **Sistemas Embarcados, IoT e Edge AI**  
+🚀 Ex-residente de **Sistemas Embarcados — RESTIC 37**
 
-- 📚 Estudando Engenharia de Computação
-- 🔭 Fui residente de sistemas embarcados na RESTIC 37
+## 🛠️ Tecnologias
 
-## 📊 GitHub Estatísticas
+**Linguagens:** C • Python • MicroPython  
+**Embarcados:** RP2040 • ESP32 • Arduino 
+**IoT:** Sensores • I2C • SPI • GPIO • Ethernet
+**Ferramentas:** Git • GitHub • VS Code • Wokwi
+
+## 📊 GitHub
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dreh3&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas GitHub"/>
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreh3&layout=compact&langs_count=7&theme=graywhite&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas"/>
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="./profile/stats.svg" alt="Estatísticas GitHub"/>
+  <img height="180em" src="./profile/top-langs.svg" alt="Linguagens mais usadas"/>
 </div>
+
+## 🚀 Projetos em destaque
+
+- 💡 **Luzes Inteligentes com MQTT** — sistema de automação e controle de iluminação utilizando MQTT e comunicação entre dispositivos IoT.
+
+- 🌊 **[EmbarcaFloat](https://github.com/SrSpratt/EmbarcaFloat)** — sistema embarcado de controle de nível de água e acionamento automático de bomba, desenvolvido em equipe com Raspberry Pi Pico W, Wi-Fi, FreeRTOS, sensores e interface web.
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- Sistemas Embarcados
+- IoT
+- TinyML e Edge AI
+
+## 📫 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dreh3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andressa-sousa-b17469353)
